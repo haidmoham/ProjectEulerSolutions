@@ -1,0 +1,6 @@
+{
+  "name": "Project Euler Solutions",
+  "tagline": "Solutions to Project Euler problems, coded in Java",
+  "body": "### Project Euler http://projecteuler.net/\r\nIncluded in my efforts to refine my skills as a programmer, I also began working on Project Euler problems, the solution code for which I've included in this repository. This is an ongoing project, and as I solve new problems, the solution code will be added.\r\n\r\n### Recommendation\r\nThough I had been aware of Project Euler for some time, it was my colleague Gordon Quach(@GordonQuach) who encouraged me to begin tackling the problems, and ultimately was able to encourage me to tackle them in a similar fashion to the CodeForces Problem Set.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
